@@ -4,8 +4,8 @@ Research papers, presentations and abstracts
 ## Content
 
 ### Parahydrogen-enhanced NMR
-#### Publication
-#### Presentation
+-[ ] Publication
+-[ ] Presentation
 
 ### Medicinal Chemistry
 #### Publication
