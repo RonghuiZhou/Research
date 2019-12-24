@@ -20,8 +20,16 @@ Research papers, presentations and abstracts
 #### Presentation
 
 
+Parahydrogen-Induced Polarization by Pairwise Replacement Catalysis on Pt and Ir Nanoparticles
+Ronghui Zhou†Evan W. Zhao†Wei Cheng‡Luke M. Neal‡Haibin Zheng‡Ryan E. Quiñones†Helena E. Hagelin-Weaver‡Clifford R. Bowers*†
+View Author Information
+Cite this: J. Am. Chem. Soc. 2015, 137, 5, 1938-1946
+Publication Date:January 15, 2015
+https://doi.org/10.1021/ja511476n
+Copyright © 2015 American Chemical Society
+RIGHTS & PERMISSIONS
 
-
+https://pubs.acs.org/doi/10.1021/ja511476n
 
 
 
